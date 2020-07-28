@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">Projeto em andamento!
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
 </h1>
 
@@ -26,7 +26,7 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/) ...
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)

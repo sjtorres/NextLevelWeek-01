@@ -1,6 +1,7 @@
-<h1 align="center">Projeto em andamento!
+<h1 align="center">
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
 </h1>
+<h2 align="center">Projeto em andamento!</h2>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +25,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto vai ser desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) ...
 - [React](https://reactjs.org)
